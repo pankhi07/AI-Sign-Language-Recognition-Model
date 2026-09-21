@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+.vscode/
